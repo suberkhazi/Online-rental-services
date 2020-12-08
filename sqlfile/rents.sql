@@ -237,7 +237,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `contactno`, `password`, `shippingAddress`, `shippingState`, `shippingCity`, `shippingPincode`, `billingAddress`, `billingState`, `billingCity`, `billingPincode`, `regDate`, `updationDate`) VALUES
-(3, 'suber khazi', 'suberkhaji@gmail.com', 8974589658, '25f9e794323b453885f5181f1b624d0b', 'kalmeshwar nagar hubli', 'karnataka', 'hubli', 580024, 'kalmeshwar nagar hubli', 'karnataka', 'hubli', 580024, '2018-04-02 08:35:44', '');
+(3, 'saam', 'saaaam@gmail.com', 8974589658, '25f9e794323b453885f5181f1b624d0b', 'california', 'us', 'america', 5424, 'californiai', 'us', 'america', 567024, '2018-04-02 08:35:44', '');
 
 -- --------------------------------------------------------
 
